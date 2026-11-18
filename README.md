@@ -11,9 +11,9 @@
 
 <br /><br />
 
-<a href="https://www.linkedin.com/in/amrit-prajapati"><img src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=0B1220&labelColor=0B1220" alt="LinkedIn" /></a>
-<a href="mailto:amrit.git786@gmail.com"><img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=0B1220&labelColor=0B1220" alt="Email" /></a>
-<a href="https://github.com/amritgit786?tab=repositories"><img src="https://img.shields.io/badge/Repositories-10B981?style=for-the-badge&logo=github&logoColor=0B1220&labelColor=0B1220" alt="Repositories" /></a>
+<a href="https://www.linkedin.com/in/amrit-prajapati"><img src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=10B981&labelColor=0B1220" alt="LinkedIn" /></a>
+<a href="mailto:amrit.git786@gmail.com"><img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0B1220" alt="Email" /></a>
+<a href="https://github.com/amritgit786?tab=repositories"><img src="https://img.shields.io/badge/Repositories-10B981?style=for-the-badge&logo=github&logoColor=10B981&labelColor=0B1220" alt="Repositories" /></a>
 
 <br /><br />
 
@@ -55,50 +55,50 @@ const amrit = {
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite&theme=dark" alt="React, Next.js, Vite" />
 <br />
-<img src="https://img.shields.io/badge/React%20Native-10B981?style=flat-square&logo=react&logoColor=0B1220&labelColor=0B1220" alt="React Native" />
-<img src="https://img.shields.io/badge/Expo-10B981?style=flat-square&logo=expo&logoColor=0B1220&labelColor=0B1220" alt="Expo" />
-<img src="https://img.shields.io/badge/Expo%20Router-10B981?style=flat-square&logo=expo&logoColor=0B1220&labelColor=0B1220" alt="Expo Router" />
+<img src="https://img.shields.io/badge/React%20Native-10B981?style=flat-square&logo=react&logoColor=10B981&labelColor=0B1220" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-10B981?style=flat-square&logo=expo&logoColor=10B981&labelColor=0B1220" alt="Expo" />
+<img src="https://img.shields.io/badge/Expo%20Router-10B981?style=flat-square&logo=expo&logoColor=10B981&labelColor=0B1220" alt="Expo Router" />
 
 **State Management & Data Fetching**
 
 <img src="https://skillicons.dev/icons?i=redux&theme=dark" alt="Redux Toolkit" />
 <br />
 <img src="https://img.shields.io/badge/Zustand-10B981?style=flat-square&labelColor=0B1220" alt="Zustand" />
-<img src="https://img.shields.io/badge/TanStack%20Query-10B981?style=flat-square&logo=reactquery&logoColor=0B1220&labelColor=0B1220" alt="TanStack Query" />
-<img src="https://img.shields.io/badge/Redux%20Toolkit-10B981?style=flat-square&logo=redux&logoColor=0B1220&labelColor=0B1220" alt="Redux Toolkit" />
-<img src="https://img.shields.io/badge/Context%20API-10B981?style=flat-square&logo=react&logoColor=0B1220&labelColor=0B1220" alt="Context API" />
+<img src="https://img.shields.io/badge/TanStack%20Query-10B981?style=flat-square&logo=reactquery&logoColor=10B981&labelColor=0B1220" alt="TanStack Query" />
+<img src="https://img.shields.io/badge/Redux%20Toolkit-10B981?style=flat-square&logo=redux&logoColor=10B981&labelColor=0B1220" alt="Redux Toolkit" />
+<img src="https://img.shields.io/badge/Context%20API-10B981?style=flat-square&logo=react&logoColor=10B981&labelColor=0B1220" alt="Context API" />
 
 **Real-Time & API Integration**
 
 <img src="https://img.shields.io/badge/WebSockets-10B981?style=flat-square&labelColor=0B1220" alt="WebSockets" />
-<img src="https://img.shields.io/badge/Socket.IO-10B981?style=flat-square&logo=socketdotio&logoColor=0B1220&labelColor=0B1220" alt="Socket.IO" />
+<img src="https://img.shields.io/badge/Socket.IO-10B981?style=flat-square&logo=socketdotio&logoColor=10B981&labelColor=0B1220" alt="Socket.IO" />
 <img src="https://img.shields.io/badge/REST%20APIs-10B981?style=flat-square&labelColor=0B1220" alt="REST APIs" />
-<img src="https://img.shields.io/badge/Axios-10B981?style=flat-square&logo=axios&logoColor=0B1220&labelColor=0B1220" alt="Axios" />
-<img src="https://img.shields.io/badge/TradingView%20Charts-10B981?style=flat-square&logo=tradingview&logoColor=0B1220&labelColor=0B1220" alt="TradingView Charts" />
-<img src="https://img.shields.io/badge/Lightweight%20Charts-10B981?style=flat-square&logo=tradingview&logoColor=0B1220&labelColor=0B1220" alt="Lightweight Charts" />
+<img src="https://img.shields.io/badge/Axios-10B981?style=flat-square&logo=axios&logoColor=10B981&labelColor=0B1220" alt="Axios" />
+<img src="https://img.shields.io/badge/TradingView%20Charts-10B981?style=flat-square&logo=tradingview&logoColor=10B981&labelColor=0B1220" alt="TradingView Charts" />
+<img src="https://img.shields.io/badge/Lightweight%20Charts-10B981?style=flat-square&logo=tradingview&logoColor=10B981&labelColor=0B1220" alt="Lightweight Charts" />
 
 **Styling & UI Systems**
 
 <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,sass&theme=dark" alt="Tailwind CSS, Material UI, Bootstrap, Sass" />
 <br />
-<img src="https://img.shields.io/badge/NativeWind-10B981?style=flat-square&logo=tailwindcss&logoColor=0B1220&labelColor=0B1220" alt="NativeWind" />
-<img src="https://img.shields.io/badge/Ant%20Design-10B981?style=flat-square&logo=antdesign&logoColor=0B1220&labelColor=0B1220" alt="Ant Design" />
+<img src="https://img.shields.io/badge/NativeWind-10B981?style=flat-square&logo=tailwindcss&logoColor=10B981&labelColor=0B1220" alt="NativeWind" />
+<img src="https://img.shields.io/badge/Ant%20Design-10B981?style=flat-square&logo=antdesign&logoColor=10B981&labelColor=0B1220" alt="Ant Design" />
 
 **Backend & Databases** <sub>(used in my full-stack MERN projects)</sub>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express, MongoDB" />
 <br />
-<img src="https://img.shields.io/badge/JWT%20Auth-10B981?style=flat-square&logo=jsonwebtokens&logoColor=0B1220&labelColor=0B1220" alt="JWT" />
-<img src="https://img.shields.io/badge/Cloudinary-10B981?style=flat-square&logo=cloudinary&logoColor=0B1220&labelColor=0B1220" alt="Cloudinary" />
-<img src="https://img.shields.io/badge/Stripe-10B981?style=flat-square&logo=stripe&logoColor=0B1220&labelColor=0B1220" alt="Stripe" />
-<img src="https://img.shields.io/badge/Razorpay-10B981?style=flat-square&logo=razorpay&logoColor=0B1220&labelColor=0B1220" alt="Razorpay" />
+<img src="https://img.shields.io/badge/JWT%20Auth-10B981?style=flat-square&logo=jsonwebtokens&logoColor=10B981&labelColor=0B1220" alt="JWT" />
+<img src="https://img.shields.io/badge/Cloudinary-10B981?style=flat-square&logo=cloudinary&logoColor=10B981&labelColor=0B1220" alt="Cloudinary" />
+<img src="https://img.shields.io/badge/Stripe-10B981?style=flat-square&logo=stripe&logoColor=10B981&labelColor=0B1220" alt="Stripe" />
+<img src="https://img.shields.io/badge/Razorpay-10B981?style=flat-square&logo=razorpay&logoColor=10B981&labelColor=0B1220" alt="Razorpay" />
 
 **Tools, Build & Testing**
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,webpack,jest,figma&theme=dark" alt="Git, GitHub, Postman, VS Code, npm, Webpack, Jest, Figma" />
 <br />
-<img src="https://img.shields.io/badge/React%20Testing%20Library-10B981?style=flat-square&logo=testinglibrary&logoColor=0B1220&labelColor=0B1220" alt="React Testing Library" />
-<img src="https://img.shields.io/badge/Chrome%20DevTools-10B981?style=flat-square&logo=googlechrome&logoColor=0B1220&labelColor=0B1220" alt="Chrome DevTools" />
+<img src="https://img.shields.io/badge/React%20Testing%20Library-10B981?style=flat-square&logo=testinglibrary&logoColor=10B981&labelColor=0B1220" alt="React Testing Library" />
+<img src="https://img.shields.io/badge/Chrome%20DevTools-10B981?style=flat-square&logo=googlechrome&logoColor=10B981&labelColor=0B1220" alt="Chrome DevTools" />
 
 </div>
 
