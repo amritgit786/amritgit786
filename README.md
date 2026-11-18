@@ -14,6 +14,7 @@
 <a href="https://www.linkedin.com/in/amrit-prajapati"><img src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=10B981&labelColor=0B1220" alt="LinkedIn" /></a>
 <a href="mailto:amrit.git786@gmail.com"><img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0B1220" alt="Email" /></a>
 <a href="https://github.com/amritgit786?tab=repositories"><img src="https://img.shields.io/badge/Repositories-10B981?style=for-the-badge&logo=github&logoColor=10B981&labelColor=0B1220" alt="Repositories" /></a>
+<a href="https://acceltradex.com"><img src="https://img.shields.io/badge/Live%20Product-acceltradex.com-10B981?style=for-the-badge&logo=googlechrome&logoColor=10B981&labelColor=0B1220" alt="AccelTradeX live product" /></a>
 
 <br /><br />
 
@@ -27,7 +28,7 @@
 
 Senior Frontend and Mobile Engineer with **6+ years** of full-lifecycle development, specialising in the **React, Next.js and React Native** ecosystems. For the last few years my focus has been fintech: real-time stock and derivatives trading platforms where live market data has to stream into the UI without dropping a frame.
 
-At **Accel Fintech** I build the AccelTradex web and mobile trading platforms — sub-second WebSocket market feeds, live multi-strike option chains, TradingView charts with derivatives indicators (OI, PCR, Max Pain, IV), and rendering paths tuned for **60fps** during peak market hours.
+At **Accel Fintech** I build the [**AccelTradeX**](https://acceltradex.com) web and mobile trading platforms — sub-second WebSocket market feeds, live multi-strike option chains, TradingView charts with derivatives indicators (OI, PCR, Max Pain, IV), and rendering paths tuned for **60fps** during peak market hours.
 
 ```js
 const amrit = {
@@ -119,13 +120,15 @@ const amrit = {
 
 ### `$ ls ~/work --professional`
 
-> These are production products built at my employers. The source code is proprietary, so it is not public.
+> These are production products built at my employers. The source code is proprietary, so it is not public — but you can try the live AccelTradeX web platform at [acceltradex.com](https://acceltradex.com).
 
 <details open>
-<summary><b>AccelTradex Web</b> — Real-time stock market & options trading platform · <code>Accel Fintech</code></summary>
+<summary><b>AccelTradeX Web</b> — Real-time stock market & options trading platform · <code>Accel Fintech</code> · <a href="https://acceltradex.com">acceltradex.com</a></summary>
 <br />
 
-Institutional-grade analytics and trading dashboard for intraday equity and derivatives traders.
+Institutional-grade analytics and trading dashboard for intraday equity and derivatives traders on NSE and BSE.
+
+<a href="https://acceltradex.com"><img src="https://img.shields.io/badge/View%20live-acceltradex.com%20(beta)-10B981?style=flat-square&logo=googlechrome&logoColor=10B981&labelColor=0B1220" alt="View AccelTradeX live" /></a>
 
 | | |
 | :--- | :--- |
@@ -136,7 +139,7 @@ Institutional-grade analytics and trading dashboard for intraday equity and deri
 </details>
 
 <details>
-<summary><b>AccelTradex Mobile</b> — Stock & derivatives trading app (Android / iOS) · <code>Accel Fintech</code></summary>
+<summary><b>AccelTradeX Mobile</b> — Stock & derivatives trading app (Android / iOS) · <code>Accel Fintech</code></summary>
 <br />
 
 | | |
