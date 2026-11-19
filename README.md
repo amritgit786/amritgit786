@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:0F766E,100:10B981&height=210&section=header&text=AMRIT%20PRAJAPATI&fontSize=54&fontColor=E2E8F0&fontAlignY=36&desc=Senior%20Frontend%20and%20Mobile%20Developer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20React%20Native%20%C2%B7%20TypeScript&descSize=16&descAlignY=58" width="100%" alt="Amrit Prajapati — Senior Frontend & Mobile Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:0F766E,100:10B981&height=210&section=header&text=AMRIT%20PRAJAPATI&fontSize=54&fontColor=E2E8F0&fontAlignY=36&desc=Senior%20Frontend%20Engineer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20React%20Native%20%C2%B7%20TypeScript&descSize=16&descAlignY=58" width="100%" alt="Amrit Prajapati — Senior Frontend Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=10B981&center=true&vCenter=true&width=860&height=110&lines=%24%20whoami%20-%3E%20Senior%20Frontend%20%26%20Mobile%20Developer%20%7C%206%2B%20yrs;%24%20cat%20stack.txt%20-%3E%20React%20%7C%20Next.js%20%7C%20React%20Native%20%7C%20TypeScript;%24%20tail%20-f%20market.log%20-%3E%20real-time%20WebSocket%20trading%20UIs;%24%20ls%20~%2Fships%20-%3E%20web%20%2B%20Android%2FiOS%20trading%20platforms" alt="Terminal introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=10B981&center=true&vCenter=true&width=860&height=110&lines=%24%20whoami%20-%3E%20Senior%20Frontend%20Engineer%20%7C%206%2B%20yrs;%24%20cat%20stack.txt%20-%3E%20React%20%7C%20Next.js%20%7C%20React%20Native%20%7C%20TypeScript;%24%20tail%20-f%20market.log%20-%3E%20real-time%20WebSocket%20trading%20UIs;%24%20ls%20~%2Fships%20-%3E%20web%20%2B%20Android%2FiOS%20trading%20platforms" alt="Terminal introduction" />
 
 <img src="https://img.shields.io/badge/Experience-6%2B%20years-10B981?style=flat-square&labelColor=0B1220" alt="6+ years experience" />
-<img src="https://img.shields.io/badge/Now-Accel%20Fintech-10B981?style=flat-square&labelColor=0B1220" alt="Currently at Accel Fintech" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20work%20%C2%B7%20immediate%20joiner-10B981?style=flat-square&labelColor=0B1220" alt="Open to work, available immediately" />
 <img src="https://img.shields.io/badge/Domain-Fintech%20%26%20Trading-10B981?style=flat-square&labelColor=0B1220" alt="Fintech and trading domain" />
 <img src="https://img.shields.io/badge/Based%20in-Ahmedabad%2C%20India-10B981?style=flat-square&labelColor=0B1220" alt="Ahmedabad, India" />
 
@@ -26,14 +26,15 @@
 
 ### `$ cat about.md`
 
-Senior Frontend and Mobile Engineer with **6+ years** of full-lifecycle development, specialising in the **React, Next.js and React Native** ecosystems. For the last few years my focus has been fintech: real-time stock and derivatives trading platforms where live market data has to stream into the UI without dropping a frame.
+Senior Frontend Engineer with **6+ years** of full-lifecycle development, specialising in the **React, Next.js and React Native** ecosystems. For the last few years my focus has been fintech: real-time stock and derivatives trading platforms where live market data has to stream into the UI without dropping a frame.
 
-At **Accel Fintech** I build the [**AccelTradeX**](https://acceltradex.com) web and mobile trading platforms — sub-second WebSocket market feeds, live multi-strike option chains, TradingView charts with derivatives indicators (OI, PCR, Max Pain, IV), and rendering paths tuned for **60fps** during peak market hours.
+At **Accel Fintech** (Feb 2025 – Nov 2026) I built the [**AccelTradeX**](https://acceltradex.com) web and mobile trading platforms — sub-second WebSocket market feeds, live multi-strike option chains, TradingView charts with derivatives indicators (OI, PCR, Max Pain, IV), and rendering paths tuned for **60fps** during peak market hours.
 
 ```js
 const amrit = {
-  role:     "Senior Frontend & Mobile Developer",
-  company:  "Accel Fintech (Feb 2024 – present)",
+  role:     "Senior Frontend Engineer",
+  status:   "Open to work · available immediately",
+  previous: "Accel Fintech (Feb 2025 – Nov 2026)",
   exp:      "6+ years · since 2019",
   core:     ["React.js", "Next.js (App Router)", "React Native", "Expo", "TypeScript"],
   state:    ["Zustand", "TanStack Query", "Redux Toolkit", "Context API"],
